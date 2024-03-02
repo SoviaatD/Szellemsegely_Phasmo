@@ -99,7 +99,7 @@
 - Hunt közben 15 méterről villogtat elektronikus eszközöket, a 10 méter helyett. 
 - Huntolhat 65% sanitynél, ha van aktív felszerelés.
 - Gyorsabb, ha elektronikus felszerelés közelében van. 
-- EMF 5 + Ghos Orb Nightmare mode-on mindig Raiju lesz.
+- EMF 5 + Ghost Orb Nightmare mode-on mindig Raiju lesz.
 
 ### Obake:
 - Speciális 6 ujjú ujjlenyomat.
